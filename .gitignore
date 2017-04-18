@@ -3,3 +3,8 @@
 /Application/Application.Editor.csproj
 /Application/Application.csproj
 /Application/Application.sln
+/Application/Assets/mainScene.meta
+/Application/Assets/mainScene/LightingData.asset
+/Application/Assets/mainScene/LightingData.asset.meta
+/Application/Assets/mainScene/ReflectionProbe-0.exr
+/Application/Assets/mainScene/ReflectionProbe-0.exr.meta
