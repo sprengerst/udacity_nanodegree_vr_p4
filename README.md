@@ -37,8 +37,8 @@ Sketch
 ![Image of Sketch](https://github.com/sprengerst/udacity_nanodegree_vr_p4/blob/master/sketch.png)
 
 
-User Test
-=========
+User Test Begin
+===============
 
 Main Questions:
 
@@ -77,3 +77,20 @@ Iteration #2:
 	1.) The room shrank
 	3.) Now I know that the room is standing on the ground.
 	 
+
+User Test Panel:
+================
+1.) Appearance of panel
+2.) Clear meaning
+
+Iteration #1:
+
+	Leandra, 16:
+	1.) Good contrast, good to read
+	3.) Know what it should do.
+
+	Tatjana, 50:
+	1.) Nice color, nice highlight
+	3.) Clear.
+	 
+
