@@ -8,8 +8,6 @@ Breakdown of final piece
 Conclusion
 
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/EKoxLxzWNOk" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-
 Youtube
 
 Statment of Purpose
@@ -142,3 +140,7 @@ Iteration #1:
 		
 What I did:
 	1.) Sound volume to 0.5 
+	
+	
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMSIOC5l99M" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
