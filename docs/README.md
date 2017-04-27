@@ -20,7 +20,7 @@ Now I cover the complete process of designing this application. At first I state
 ## Persona
 
 ### Lisa, 26 - Medicine Student
-![Image of Lisa](https://raw.githubusercontent.com/sprengerst/udacity_nanodegree_vr_p4/master/Documentation/lisa.jpg)
+![Image of Lisa](https://raw.githubusercontent.com/sprengerst/udacity_nanodegree_vr_p4/master/docs/lisa.jpg)
 
 #### Cite:
 "Man can alter his life by altering his thinking"
@@ -39,7 +39,7 @@ but is interested in new technologies.
 
 This sketch is the one and only drawing I made to describe the game mechanics and environment in general:
 
-![Image of Sketch](https://raw.githubusercontent.com/sprengerst/udacity_nanodegree_vr_p4/master/Documentation/sketch.png)
+![Image of Sketch](https://raw.githubusercontent.com/sprengerst/udacity_nanodegree_vr_p4/master/docs/sketch.png)
 
 
 # User testing outcomes and iteration
@@ -102,7 +102,10 @@ Here are the testing outcomes from the different user tests. They all divide in 
 	1.) Nice color, nice highlight
 	3.) Clear.
 	 
-
+### Findings:
+	Good:
+		Everything seems to be clear
+	
 ## User Test on Movement:
 
 ### Main Questions:
@@ -140,18 +143,36 @@ Here are the testing outcomes from the different user tests. They all divide in 
 		
 ### What I did:
 	1.) Sound volume of failure sound to 0.5 instead of 1.0
-	
-	
+		
 # Breakdown of final piece
 
 Here I want to give you an brief overview on which are the main elements of the game:
 
 ## Welcome UI
+This is the screen the user can see on start of the application, after pressing start he flies into the dungeon:
+![Image of Welcome UI](https://raw.githubusercontent.com/sprengerst/udacity_nanodegree_vr_p4/master/docs/final1.jpg)
+
 ## Orbs
+Here you can see the main game mechanics in form of orbs. The orbs light up in random combinations:
+![Image of Lightning orb](https://raw.githubusercontent.com/sprengerst/udacity_nanodegree_vr_p4/master/docs/final2.jpg)
+
+ You have to repeat the order they did that by pointing and clicking on them:
+![Image of Selected Orb](https://raw.githubusercontent.com/sprengerst/udacity_nanodegree_vr_p4/master/docs/final4.jpg)
+
 ## Restart UI
+This is the screen the users sees after succesfully finishing the puzzle:
+![Image of Finish UI](https://raw.githubusercontent.com/sprengerst/udacity_nanodegree_vr_p4/master/docs/final9.jpg)
 
 # Conclusion
 It was a great experience to create this project I would recommend doing a Nanodegree to everyone, the amount of what you learn is amazing. This project was hard sometimes, but it was very nice to get an insight how user centered design is working and how user testing is done.
+
+# Next steps:
+
+It would be great to add more features to this application some of them could be:
+
+	1.) Improved lightning 
+	2.) High Quality environment
+	3.) Multiple iterations and levels
 
 # Link to additional work
 Have a look at my other projects: 
