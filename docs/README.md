@@ -1,22 +1,16 @@
 # udacity_nanodegree_vr_p4
 
-Introduction
-Outcomes
-Story of the process
-User testing outcomes and iteration
-Breakdown of final piece
-Conclusion
+# Introduction
+# Outcomes
+# The Process
 
+## Statment of Purpose
 
-Youtube
-
-Statment of Purpose
-===================
 Puzzler is a mobile VR puzzle game for new VR users. It challenges them to 
 solve a familiar type of simon-says puzzle in a new way.
 
-Persona
-=======
+## Persona
+
 ![Image of Lisa](https://raw.githubusercontent.com/sprengerst/udacity_nanodegree_vr_p4/master/Documentation/lisa.jpg)
 
 Lisa, 26 - Medicine Student
@@ -32,31 +26,23 @@ mind games.
 She doesn't have any experience in Virtual Reality, 
 but is interested in new technologies.
 
+##Sketch
 
-
-name, age, occupation, quote, experience level and some sentences
-
-The end users for Puzzler are likely to be people who are new to VR,
-but who have already experienced various games in their life. They are 
-probably going to be in their mid twenties and own a next-gen smartphone. 
-And I hope they enjoy puzzle games!
-
-
-Sketch
-=======
 ![Image of Sketch](https://raw.githubusercontent.com/sprengerst/udacity_nanodegree_vr_p4/master/Documentation/sketch.png)
 
 
-User Test Begin
-===============
+# User testing outcomes and iteration
 
-Main Questions:
+
+## First User Test
+
+### Main Questions:
 
 	1.) What do you think about the scale of yourself, is everything as big or small as it should?
 	2.) Is the mood well established? What do you think, where you are?
 	3.) Is the experience comfortable? Do you experience any strange or confusing stuff?
 
-Iteration #1:
+### Iteration #1:
 
 	Leandra, 16:
 	1.) I seem to be a little bit smaller than I normally am.
@@ -68,7 +54,7 @@ Iteration #1:
 	2.) It looks like some kind of cell, it makes me feel a little bit claustrophobic.
 	3.) Some objects are flickering, and the horizont behind the gate is very confusing. Is the room floating?
 	 
-Findings:
+### Findings:
 	Good:
 		The ambient is great and is mysthic as it should be.
 	
@@ -77,7 +63,7 @@ Findings:
 		- Some objects are growing inside each other, I fixed that so flickering should stop
 		- The skybox is confusing so added a new one with a horizont sun.
 	
-Iteration #2:
+### Iteration #2:
 
 	Leandra, 16:
 	1.) Now the size seems to be good.
@@ -88,12 +74,13 @@ Iteration #2:
 	3.) Now I know that the room is standing on the ground.
 	 
 
-User Test Panel:
-================
+## User Test UI Panels:
+
+### Main Questions:
 1.) Appearance of panel
 2.) Clear meaning
 
-Iteration #1:
+### Iteration #1:
 
 	Leandra, 16:
 	1.) Good contrast, good to read
@@ -104,22 +91,23 @@ Iteration #1:
 	3.) Clear.
 	 
 
-User Test Movement:
-===================
+## User Test on Movement:
+
+### Main Questions:
 1.) Speed of movement?
 2.) Feel uncomfortable?
 
-Iteration #1:
+### Iteration #1:
 
 	Marina, 26:
 	1.) Speed is a little bit too fast, I'm feeling deezy.
 	2.) Camera position to near at the magic balls.
 	
-What I did:
+### What I did:
 	1.) Speed to 5 in Gamelogic
 	2.) Align waypoints correctly
 	
-Iteration #2:
+### Iteration #2:
 
 	Marina, 26:
 	1.) Now it seems to be slower, but good
@@ -127,20 +115,22 @@ Iteration #2:
 	
 
 	
-Final User Test
-===============
-1.) Sound?
-2.) Light?
+## Final User Test
+### Main Questions:
+1.) How is the sound?
+2.) Other stuff?
 	
-Iteration #1:
+### Iteration #1:
 
 	Marina, 26:
 	1.) Failure sound is too loud
 	2.) Back floating is confusing
 		
-What I did:
-	1.) Sound volume to 0.5 
+### What I did:
+	1.) Sound volume of failure sound to 0.5 instead of 1.0
 	
 	
+# Breakdown of final piece
+# Conclusion
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HMSIOC5l99M" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
