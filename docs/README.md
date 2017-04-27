@@ -15,7 +15,7 @@ In this video you can see how the app finally looks like.
 
 # The Process
 
-Now I cover the complete process of designing this application. At first I stated a persona:
+Now I cover the complete process of designing this application. This will cover Persona, Sketch and User Testing:
 
 ## Persona
 
@@ -127,28 +127,28 @@ After applying my findings the scenary changed significantly:
 	
 ### Findings:
 	Bad:
-		- The speed of 2 was far too high so I set it to 5
+		- The speed of 2 was far too high so I set it to 5.
 		- The camera was to near at the orbs so I placed the play waypoint away a little bit more.
 		
 ### Iteration #2:
 
 	Marina, 26:
-	1.) Now it seems to be slower, but good
-	2.) Seems to be good now
+	1.) Now it seems to be slower, but good.
+	2.) Seems to be good now.
 	
 	
 ## Sound user test and other stuff (Final)
 ### Main Questions:
-1.) How is the sound?
-2.) Other stuff?
+	1.) Does the sound feel comfortable?
+	2.) Other stuff?
 	
 ### Iteration #1:
 
 	Marina, 26:
-	1.) Failure sound is too loud
+	1.) Failure sound is far too loud.
 		
 ### What I did:
-	1.) Sound volume of failure sound to 0.5 instead of 1.0
+	1.) Sound volume of failure sound to 0.5 instead of 1.0.
 	
 ### Findings:
 
