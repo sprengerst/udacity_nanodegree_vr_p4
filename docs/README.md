@@ -1,7 +1,14 @@
 # udacity_nanodegree_vr_p4
 
-# Introduction
-# Outcomes
+# Title
+
+## Subheader
+
+
+# Project Title
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMSIOC5l99M" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
 # The Process
 
 ## Statment of Purpose
@@ -26,7 +33,7 @@ mind games.
 She doesn't have any experience in Virtual Reality, 
 but is interested in new technologies.
 
-##Sketch
+## Sketch
 
 ![Image of Sketch](https://raw.githubusercontent.com/sprengerst/udacity_nanodegree_vr_p4/master/Documentation/sketch.png)
 
@@ -133,4 +140,8 @@ but is interested in new technologies.
 # Breakdown of final piece
 # Conclusion
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMSIOC5l99M" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+# Next steps
+# Link to additional work
+
+
+
