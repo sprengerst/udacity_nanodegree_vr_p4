@@ -37,16 +37,15 @@ but is interested in new technologies.
 
 ## Sketch
 
-This sketch is the one and only drawing I made to describe the game mechanics and environment in general:
+This sketch is the one and only drawing I made to describe the game mechanics and environment in general it should be almost self explaining:
 
 ![Image of Sketch](https://raw.githubusercontent.com/sprengerst/udacity_nanodegree_vr_p4/master/docs/sketch.png)
-
 
 # User testing outcomes and iteration
 
 Here are the testing outcomes from the different user tests. They all divide in Questions, Iterations #x and findings.
 
-## First User Test
+## Scale and Mood User Test
 
 ### Main Questions:
 
@@ -65,16 +64,22 @@ Here are the testing outcomes from the different user tests. They all divide in 
 	1.) The room seems to be bigger than normal. 
 	2.) It looks like some kind of cell, it makes me feel a little bit claustrophobic.
 	3.) Some objects are flickering, and the horizont behind the gate is very confusing. Is the room floating?
-	 
+
+Here you can see the current state for the user testing:
+![Before Iteration](https://raw.githubusercontent.com/sprengerst/udacity_nanodegree_vr_p4/master/docs/1_2_screen.jpg)
+
 ### Findings:
 	Good:
-		The ambient is great and is mysthic as it should be.
+		- The ambient is great and is mysthic as it should be.
 	
 	Bad:
 		- I think that a problem is in the camera position I highered the camera to make the protagonist feel taller.
 		- Some objects are growing inside each other, I fixed that so flickering should stop
 		- The skybox is confusing so added a new one with a horizont sun.
-	
+
+After applying my findings the scenary changed significantly:
+![After Findings](https://raw.githubusercontent.com/sprengerst/udacity_nanodegree_vr_p4/master/docs/after_design_iteration_1_1.jpg)
+
 ### Iteration #2:
 
 	Leandra, 16:
@@ -85,12 +90,13 @@ Here are the testing outcomes from the different user tests. They all divide in 
 	1.) The room shrank
 	3.) Now I know that the room is standing on the ground.
 	 
-
 ## User Test UI Panels:
 
 ### Main Questions:
 	1.) Appearance of panel
 	2.) Clear meaning
+
+![Panel Tests ](https://raw.githubusercontent.com/sprengerst/udacity_nanodegree_vr_p4/master/docs/panel_design_real.jpg)
 
 ### Iteration #1:
 
@@ -104,7 +110,7 @@ Here are the testing outcomes from the different user tests. They all divide in 
 	 
 ### Findings:
 	Good:
-		Everything seems to be clear
+		- Everything seems to be clear
 	
 ## User Test on Movement:
 
@@ -118,19 +124,20 @@ Here are the testing outcomes from the different user tests. They all divide in 
 	1.) Speed is a little bit too fast, I'm feeling deezy.
 	2.) Camera position to near at the magic balls.
 	
-### What I did:
-	1.) Speed to 5 in Gamelogic
-	2.) Align waypoints correctly
 	
+### Findings:
+	Bad:
+		- The speed of 2 was far too high so I set it to 5
+		- The camera was to near at the orbs so I placed the play waypoint away a little bit more.
+		
 ### Iteration #2:
 
 	Marina, 26:
 	1.) Now it seems to be slower, but good
-	2.) Nothing
+	2.) Seems to be good now
 	
-
 	
-## Final User Test
+## Sound user test and other stuff (Final)
 ### Main Questions:
 1.) How is the sound?
 2.) Other stuff?
@@ -139,27 +146,31 @@ Here are the testing outcomes from the different user tests. They all divide in 
 
 	Marina, 26:
 	1.) Failure sound is too loud
-	2.) Back floating is confusing
 		
 ### What I did:
 	1.) Sound volume of failure sound to 0.5 instead of 1.0
-		
+	
+### Findings:
+
+	Bad:
+		- I set the sound volume of failure sound to 0.5 instead of 1.0, because it was set far too high.
+	
 # Breakdown of final piece
 
-Here I want to give you an brief overview on which are the main elements of the game:
+Here I want to give you an brief overview on which are the main elements of the game all of them are controllable and include important mechanics:
 
-## Welcome UI
+## Welcome UI (Start Game)
 This is the screen the user can see on start of the application, after pressing start he flies into the dungeon:
 ![Image of Welcome UI](https://raw.githubusercontent.com/sprengerst/udacity_nanodegree_vr_p4/master/docs/final1.jpg)
 
-## Orbs
+## Orbs (Play Game)
 Here you can see the main game mechanics in form of orbs. The orbs light up in random combinations:
 ![Image of Lightning orb](https://raw.githubusercontent.com/sprengerst/udacity_nanodegree_vr_p4/master/docs/final2.jpg)
 
  You have to repeat the order they did that by pointing and clicking on them:
 ![Image of Selected Orb](https://raw.githubusercontent.com/sprengerst/udacity_nanodegree_vr_p4/master/docs/final4.jpg)
 
-## Restart UI
+## End UI (Restart Game)
 This is the screen the users sees after succesfully finishing the puzzle:
 ![Image of Finish UI](https://raw.githubusercontent.com/sprengerst/udacity_nanodegree_vr_p4/master/docs/final9.jpg)
 
