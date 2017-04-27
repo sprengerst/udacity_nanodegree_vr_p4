@@ -94,3 +94,28 @@ Iteration #1:
 	3.) Clear.
 	 
 
+User Test Movement:
+===================
+1.) Speed of movement?
+2.) Feel uncomfortable?
+
+Iteration #1:
+
+	Marina, 26:
+	1.) Speed is a little bit too fast, I'm feeling deezy.
+	2.) Camera position to near at the magic balls.
+	
+What I did:
+	1.) Speed to 5 in Gamelogic
+	2.) Align waypoints correctly
+	
+Iteration #2:
+
+	Marina, 26:
+	1.) Now it seems to be slower, but good
+	2.) Nothing
+	
+
+	
+
+	
