@@ -89,8 +89,8 @@ Here are the testing outcomes from the different user tests. They all divide in 
 ## User Test UI Panels:
 
 ### Main Questions:
-1.) Appearance of panel
-2.) Clear meaning
+	1.) Appearance of panel
+	2.) Clear meaning
 
 ### Iteration #1:
 
@@ -106,8 +106,8 @@ Here are the testing outcomes from the different user tests. They all divide in 
 ## User Test on Movement:
 
 ### Main Questions:
-1.) Speed of movement?
-2.) Feel uncomfortable?
+	1.) Speed of movement?
+	2.) Feel uncomfortable?
 
 ### Iteration #1:
 
