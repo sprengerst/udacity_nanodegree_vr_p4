@@ -17,7 +17,7 @@ solve a familiar type of simon-says puzzle in a new way.
 
 Persona
 =======
-![Image of Lisa](https://github.com/sprengerst/udacity_nanodegree_vr_p4/blob/master/lisa.jpg)
+![Image of Lisa](https://github.com/sprengerst/udacity_nanodegree_vr_p4/blob/master/Documentation/lisa.jpg)
 
 Lisa, 26 - Medicine Student
 
@@ -44,7 +44,7 @@ And I hope they enjoy puzzle games!
 
 Sketch
 =======
-![Image of Sketch](https://github.com/sprengerst/udacity_nanodegree_vr_p4/blob/master/sketch.png)
+![Image of Sketch](https://github.com/sprengerst/udacity_nanodegree_vr_p4/blob/master/Documentation/sketch.png)
 
 
 User Test Begin
