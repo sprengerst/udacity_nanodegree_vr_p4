@@ -1,29 +1,31 @@
-# udacity_nanodegree_vr_p4
+# Puzzler
 
-# Title
-
-## Subheader
-
-
-# Project Title
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMSIOC5l99M" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-
-# The Process
+This project is done as part of the Udacity VR Developer Nanodegree program. The goal of this project was to teach me fundamentals in design and user centered thinking. This Github page shows the main project work routine, from start till the end. Also I have listed all user tests I did.
 
 ## Statment of Purpose
 
 Puzzler is a mobile VR puzzle game for new VR users. It challenges them to 
 solve a familiar type of simon-says puzzle in a new way.
 
+## Final Result (Video)
+
+In this video you can see how the app finally looks like.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMSIOC5l99M" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+# The Process
+
+Now I cover the complete process of designing this application. At first I stated a persona:
+
 ## Persona
 
+### Lisa, 26 - Medicine Student
 ![Image of Lisa](https://raw.githubusercontent.com/sprengerst/udacity_nanodegree_vr_p4/master/Documentation/lisa.jpg)
 
-Lisa, 26 - Medicine Student
-
+#### Cite:
 "Man can alter his life by altering his thinking"
 
+#### About:
 Lisa is in the middle of her masters degree in Medicine. 
 One of her research topics is in dementia so she 
 is always searching for new ways to help struggling persons.
@@ -35,11 +37,14 @@ but is interested in new technologies.
 
 ## Sketch
 
+This sketch is the one and only drawing I made to describe the game mechanics and environment in general:
+
 ![Image of Sketch](https://raw.githubusercontent.com/sprengerst/udacity_nanodegree_vr_p4/master/Documentation/sketch.png)
 
 
 # User testing outcomes and iteration
 
+Here are the testing outcomes from the different user tests. They all divide in Questions, Iterations #x and findings.
 
 ## First User Test
 
@@ -138,10 +143,18 @@ but is interested in new technologies.
 	
 	
 # Breakdown of final piece
+
+Here I want to give you an brief overview on which are the main elements of the game:
+
+## Welcome UI
+## Orbs
+## Restart UI
+
 # Conclusion
+It was a great experience to create this project I would recommend doing a Nanodegree to everyone, the amount of what you learn is amazing. This project was hard sometimes, but it was very nice to get an insight how user centered design is working and how user testing is done.
 
-# Next steps
 # Link to additional work
-
+Have a look at my other projects: 
+https://github.com/sprengerst/
 
 
